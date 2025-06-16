@@ -1,2 +1,5 @@
-# curso-log-prog-c
-Projetos Integradores do curso de Lógica de Programação e Algoritmos em C do Gus
+# CURSO - Lógica de Programação e Algoritmos
+
+Repositório com projetos integradores resolvidos.
+
+>Estes códigos são apenas sugestões de respostas. É muito importante que você faça o seu para aprimorar ainda mais o seu aprendizado 😉
